@@ -1,0 +1,43 @@
+#w {
+    color: coral;
+    font-family: Garamond;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 58px;
+    border: 2px solid grey;
+    margin-right: 895.7px;
+}
+
+#box {
+    border: 2px solid darkblue;
+}
+
+#r {
+    color: firebrick;
+    font-size: 48px;
+}
+
+h3.b {
+    color: darkcyan;
+    font-family: sans-serif;
+    font-size: 29px;
+}
+
+p.u {
+    color: darkslategrey;
+    font-family: inherit;
+    font-size: 20px;
+}
+
+a:link, a:visited, a:active {
+    text-decoration: none;
+    color: coral;
+}
+
+a:hover {
+    background-color: lightgreen;
+}
+
+html {
+    margin-left: 20px;
+}
